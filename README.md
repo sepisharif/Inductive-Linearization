@@ -91,7 +91,7 @@ NOTE-2: For both techniques, ode45 followed by IL, the parameter estimations and
 
 4- The RelTol set for ode45 is in the MainRun m.file, line 51.
 
-5- The "tol" set of the lsqnonlin (L-M algorithm) is in myFunction.m file,line 10. 
+5- The "tol" set of the lsqnonlin (L-M algorithm) is in myFunction.m file,line 11. 
 
 6- The dose defined in GeneralInitials.m file.
 
