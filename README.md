@@ -1,4 +1,4 @@
-# JPKPD_Review
+# Inductive-Linearization
 MATLAB_Codes
 
 ## Sepideh Sharif, 27/04/2022
